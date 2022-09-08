@@ -12,6 +12,8 @@ PCB TOP                                                     |  PCB Bottom
 ![Image of PCB top](/RAW/DCmotorBreadBoard.png?raw=true)    | ![Image of PCB bottom](/RAW/DCmotorBreadBoard2.png?raw=true)  
 ![Image of assembly top](/RAW/img1.JPG?raw=true)  	    	| ![Image of assembly bottom](/RAW/img2.JPG?raw=true) 
 
+![Used on breadboard](/RAW/breadboard.JPG?raw=true)  
+
 
 
 ## Parts
