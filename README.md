@@ -7,11 +7,13 @@ This is intended to teaching Physical Computing or electronic basics. When two p
 
 To assemle, simply snap off the vertical bracket, and solder the motor into place. An optional drop of glue, or a 3D printed bracket (files included) can secure the motor firmly in place.  
 
-![Image of PCB top](/RAW/DCmotorBreadBoard.png?raw=true)  
-![Image of PCB bottom](/RAW/DCmotorBreadBoard2.png?raw=true)  
+Solarized dark                                              |  Solarized Ocean
+:----------------------------------------------------------:|:---------------------------------------------------------------:
+![Image of PCB top](/RAW/DCmotorBreadBoard.png?raw=true)    | ![Image of PCB bottom](/RAW/DCmotorBreadBoard2.png?raw=true)  
+:----------------------------------------------------------:|:---------------------------------------------------------------:
+![Image of assembly top](/RAW/img1.JPG?raw=true)  	    	| ![Image of assembly bottom](/RAW/img2.JPG?raw=true) 
 
-![Image of assembly top](/RAW/img1.JPG?raw=true)  
-![Image of assembly bottom](/RAW/img2.JPG?raw=true)  
+
 
 ## Parts
 http://www.dsdmotor.com/product/DSD-12SSN20.pdf
